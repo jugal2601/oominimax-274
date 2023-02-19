@@ -1,0 +1,23 @@
+#  Aknowledgements: Most of this code has just been copy pasted using Paul lu's minimax
+
+Files Submitted:
+	*oominimax
+		*README
+		*oominimax.py
+		*submit.git.log.txt
+		*debugger.png
+
+
+Running Instructions:
+
+	*In the teminal type the following command, that will take the input from the input file and re direct the output to another file:
+
+	"python3 oominimax.py<inputfilename>outputfilename"
+
+
+Notes & Aknowledgements:
+
+	* Most of the code has been copy pasted using Paul lu's minimax, I have just edited the code.
+	* I have created 3 classes state, Board & oominimax.
+	* The functions which are outside all the classes are human_turn(), ai_turn(), clean() & main()
+	* My debugger.png works when you open it using firefox on vim, but doesn't work for me when i try to open it using 		  image viewer not sure why.
